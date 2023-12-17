@@ -1,0 +1,12 @@
+import * as connectWalletModal from './packages/connect-wallet-modal.js';
+export { connectWalletModal as ConnectWalletModal };
+import * as web3React from './packages/web3-react.js';
+export { web3React as Web3React };
+import * as uiReact from './packages/ui-react.js';
+export { uiReact as UIReact };
+import * as walletsIcons from './packages/wallets-icons.js';
+export { walletsIcons as WalletsIcons };
+import * as coreReact from './packages/core-react.js';
+export { coreReact as CoreReact };
+import * as wallets from './packages/wallets.js';
+export { wallets as WalletsList };
